@@ -1,5 +1,13 @@
+/* Contains class and id level CSS */
+
 .makeItFit {
     width: 800px;
     height: 125px;
     background-color: red;
+}
+
+#specialFooter {
+    width: 800px;
+    height: 25px;
+    background-color:cyan;
 }
